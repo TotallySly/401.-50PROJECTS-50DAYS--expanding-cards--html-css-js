@@ -4,7 +4,7 @@
 
 The project is part of the 50 Projects in 50 Days with Brad Travesy via Udemy. The course is a code-a-long to further cement skills used within HTML, CSS, and Vanilla JavaScript.
 
-This particular project was to create expanding cards. The cards themselves start of small, but once clicked, that particular card will expand.
+This particular project was to create expanding cards. The cards themselves start of small, but once clicked, each particular card will expand.
 
 [Expanding Cards](https://totallysly.github.io/401.-50PROJECTS-50DAYS--expanding-cards--html-css-js/)
 
@@ -16,7 +16,7 @@ I feel pretty comfortable with HTML and CSS. I have just started to touch the su
 
 `const panels = document.querySelectorAll('.panel')`
 
-Using *querySelectorAll* puts all HTML elements with the class name of '*.panel*' within a **node** list. A **node** list is similar to an array, therefore you can target an individual **node** like so `panel[2]` which will target the **THIRD** panel.
+Using *querySelectorAll* puts all HTML elements with the class name of '*.panel*' within a **node** list. A **node** list is similar to an array, therefore you can target an individual **node**. Therefore `panel[2]` will target the **THIRD** panel.
 
 
 
